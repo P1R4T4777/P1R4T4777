@@ -5,9 +5,6 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=P1R4T4777" alt="campero" /></a> </p>
-
-
 
 <h3 align="left">Languages</h3>
 <p align="left">
